@@ -396,6 +396,15 @@ And if you just came here to see what some random human on the internet is build
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 
 # 🐍 Watch My Contributions Get Eaten
