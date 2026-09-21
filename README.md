@@ -29,18 +29,7 @@ I'm **Bala**, an MSc Data Science graduate who enjoys understanding how technolo
 
 These days, I'm moving deeper into **🛡️ Cybersecurity**, with my main focus on becoming a **SOC Analyst**.
 
-I'm learning about:
-
-🔐 Security Monitoring  
-📊 SIEM  
-🔍 Threat Detection  
-🚨 Incident Response  
-🌐 Network Security  
-📜 Log Analysis  
-🎯 Threat Hunting  
-🧩 MITRE ATT&CK
-
-But...
+But here's the thing...
 
 ### 💻 I Don't Only Like Cybersecurity
 
@@ -52,13 +41,19 @@ I genuinely love building software too.
 🤖 AI projects  
 🔧 Automation tools  
 ☁️ Cloud deployments  
-🧪 Random experiments that start with:
+🐧 Linux & systems  
+🌐 Networking  
+🧪 Random experiments
+
+Basically, if something is technical and interesting, there's a good chance I'll want to touch it.
+
+Usually the thought process is:
 
 > **"Hmm... I wonder if I can build that."**
 
 Sometimes I can.
 
-Sometimes I spend three hours debugging something only to discover I forgot one character.
+Sometimes I spend three hours debugging something just to discover I forgot one character.
 
 **That's part of the adventure. 😂**
 
@@ -68,11 +63,20 @@ Sometimes I spend three hours debugging something only to discover I forgot one 
 
 My current career direction is:
 
-### 🛡️ Cybersecurity → SOC Analyst
+## 🛡️ Cybersecurity → SOC Analyst
 
-But my curiosity goes beyond one job title.
+I'm currently learning:
 
-I enjoy working with:
+🔐 Security Monitoring  
+📊 SIEM  
+🔍 Threat Detection  
+🚨 Incident Response  
+📜 Log Analysis  
+🌐 Network Security  
+🎯 Threat Hunting  
+🧩 MITRE ATT&CK
+
+At the same time, I'm still building software because I genuinely enjoy development.
 
 |     | Area                        |
 | --- | --------------------------- |
@@ -212,7 +216,7 @@ A computer-vision project that verifies human interaction using face detection a
 
 Because apparently clicking:
 
-> ☑️ **I'm not a robot**
+> ☑️ **"I'm not a robot"**
 
 wasn't interesting enough.
 
@@ -284,6 +288,7 @@ Built mainly because writing the same browser setup code again and again became 
 🐍 Python
 ⚙️ Backend Development
 🌐 Full-Stack Development
+📱 Application Development
 🔌 APIs
 ☁️ Deployment
 ```
@@ -311,7 +316,7 @@ I learn better when I **actually build something**.
        ↓
 🚀 Build something else
        ↓
-       🔁
+      🔁
 ```
 
 **Repeat forever.**
@@ -354,6 +359,7 @@ At the same time, I'm continuing to grow in:
 
 💻 Backend Development  
 🌐 Full-Stack Development  
+📱 Application Development  
 ☁️ Cloud  
 🐧 Linux  
 🌐 Networking  
@@ -413,41 +419,36 @@ And if you just came here to see what some random human on the internet is build
 
 # 🔥 GitHub Streak
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
-  />
-
-<img
-    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
+<p align="center">
+  <img
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
-</picture>
+</p>
 
 ---
 
 # 🐍 Watch My Contributions Get Eaten
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+
+  </picture>
+</p>
 
 ---
 
