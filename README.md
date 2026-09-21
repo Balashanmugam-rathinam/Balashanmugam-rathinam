@@ -400,22 +400,19 @@ And if you just came here to see what some random human on the internet is build
 
 # 📊 GitHub Stats
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Balashanmugam-rathinam&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
+<div align="center">
 
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam-rathinam&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=Balashanmugam-rathinam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="GitHub Stats"
+/>
 
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam-rathinam&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
----
+## </div>
 
 # 🔥 GitHub Streak
 
