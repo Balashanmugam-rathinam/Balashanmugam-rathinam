@@ -432,9 +432,11 @@ And if you just came here to see what some random human on the internet is build
 
 ## 🐍 Watch My Contributions Get Eaten
 
+## 🐍 Watch My Contributions Get Eaten
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
