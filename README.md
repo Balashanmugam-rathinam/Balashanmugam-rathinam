@@ -396,33 +396,6 @@ And if you just came here to see what some random human on the internet is build
 
 ---
 
-<div align="center">
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Balashanmugam-rathinam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam-rathinam&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-## </div>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 # 🐍 Watch My Contributions Get Eaten
