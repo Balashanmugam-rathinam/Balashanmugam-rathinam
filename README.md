@@ -430,24 +430,14 @@ And if you just came here to see what some random human on the internet is build
 
 # 🐍 Watch My Contributions Get Eaten
 
+## 🐍 Watch My Contributions Get Eaten
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
