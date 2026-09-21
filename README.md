@@ -1,110 +1,292 @@
-<!--
-  Before you publish this, swap in your real details (search for these tokens):
-  - YOUR-GITHUB-USERNAME   → your GitHub username (used in stats, the snake animation, and the GitHub badge)
-  - YOUR-LINKEDIN-USERNAME → your LinkedIn profile handle
-  - YOUR-PORTFOLIO-URL     → your portfolio site
-
-  This assumes the file lives in your special <username>/<username> profile repo —
-  the same repo your snake-animation workflow runs in.
--->
-
 <div align="center">
 
-# Hey, I'm Balashanmugam 👋
+# Hi, fellow human being! 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=600&size=20&pause=1200&color=2F81F7&lines=Backend+and+Full-Stack+Developer;Ships+things+that+survive+production;Currently+open+to+new+roles" alt="Typing SVG" />
+I'm **Balashanmugam**, but you can call me **Bala**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balashanmugamrathinam@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=700&size=20&pause=1200&color=2F81F7&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;I+Build+Things+%26+Break+Them+Safely+%F0%9F%94%A5;Learning+Cybersecurity+One+Log+at+a+Time;Sometimes+I+Fix+Bugs+I+Created+Myself" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=2F81F7&style=flat-square&label=Profile+Views)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge\&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:balashanmugamrathinam@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 👋 Hello, Stranger!
 
-MSc Data Science graduate who'd rather ship something small that runs in production than something ambitious that only runs on localhost. I've delivered a live business website for a local automation company, a FastAPI service running unattended on an Azure VM, and a real-time computer-vision app — so I've also owned the reboot that kills a service and the CORS error that only shows up after deploy.
+If you've somehow ended up here, welcome.
 
-- 🎯 Looking for **backend / full-stack developer** roles
-- 🎓 MSc Data Science @ Bishop Heber College, Tiruchirappalli (2024–2026)
-- 💼 Freelance developer for **Sky Tech** — built their site and WhatsApp-routed enquiry system solo, end to end
-- 📫 Reach me at **balashanmugamrathinam@gmail.com**
+I'm **Bala**, an MSc Data Science graduate who enjoys understanding how technology works, building things with it, and occasionally breaking things just to figure out why they broke.
+
+Right now, I'm moving deeper into **Cybersecurity**, with my main focus on becoming a **SOC Analyst**.
+
+I'm learning about security monitoring, SIEM, threat detection, incident response, networking, Linux, and how attackers actually get things to misbehave.
+
+But here's the thing...
+
+**I don't only like cybersecurity.**
+
+I love building software too.
+
+Websites. APIs. Backend services. Full-stack applications. Automation tools. AI experiments. Computer-vision projects. Random ideas that probably started with:
+
+> *“Hmm... I wonder if I can build that.”*
+
+Sometimes I can.
+
+Sometimes I spend three hours fixing something that was caused by one missing character.
+
+Either way, I learn something.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 What Am I Doing Here?
 
-**Languages**
+Currently, my main direction is:
 
-![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css)
+**🛡️ Cybersecurity → SOC Analyst**
 
-<sub>+ SQL</sub>
+But my curiosity goes much further.
+
+I enjoy working with:
+
+```text
+🛡️ Cybersecurity
+💻 Backend Development
+🌐 Web Development
+📱 Application Development
+🤖 AI & Computer Vision
+🐧 Linux
+☁️ Cloud & DevOps
+🌐 Networking
+🔧 Automation
+```
+
+So I don't really want to put myself inside one tiny box.
+
+If it's technical, interesting, and gives me a reason to say **“let me see how this works”**, I'm probably interested.
+
+---
+
+## 🛡️ My Cybersecurity Journey
+
+I'm currently building my cybersecurity skills through hands-on learning rather than just watching courses and collecting certificates.
+
+I'm exploring:
+
+`SOC Operations` · `SIEM` · `Threat Detection` · `Incident Response`
+
+`Log Analysis` · `Network Security` · `Threat Hunting` · `MITRE ATT&CK`
+
+Tools and platforms:
+
+`Wazuh` · `Splunk` · `Wireshark` · `Nmap` · `TryHackMe` · `Linux`
+
+My favorite part?
+
+Taking something suspicious and asking:
+
+**“Okay... what actually happened here?”**
+
+Then following the evidence.
+
+---
+
+## 💻 And Yes... I Still Love Development
+
+Cybersecurity may be my current career direction, but I'm not giving up development.
+
+I actually enjoy building applications from scratch.
+
+I've worked with:
+
+**Python · FastAPI · Django · Flask**
+
+**React · Next.js · JavaScript · TypeScript**
+
+**PostgreSQL · MySQL · MongoDB**
+
+**Docker · Azure · Linux · Git · GitHub Actions**
+
+I like the entire journey:
+
+```text
+Idea
+ ↓
+Design
+ ↓
+Code
+ ↓
+Break it
+ ↓
+Debug it
+ ↓
+Deploy it
+ ↓
+Break it again
+ ↓
+Fix it
+ ↓
+Secure it
+```
+
+It's a surprisingly effective learning method.
+
+---
+
+## 🚀 Things I've Built
+
+### 🌐 Sky Tech — Business Website
+
+Built a complete website for a local gate-automation business.
+
+Handled the project end to end — requirements, UI, frontend, backend API and deployment.
+
+The enquiry system routes customer enquiries directly to WhatsApp.
+
+**Stack:** `Next.js` · `React` · `TypeScript` · `Tailwind` · `FastAPI`
+
+---
+
+### 📥 Instagram Reel Downloader
+
+Built a FastAPI application around `yt-dlp` and deployed it to an Azure Ubuntu VM.
+
+Worked with Linux, Docker, systemd, CORS, deployment and backend services.
+
+**Stack:** `Python` · `FastAPI` · `Azure` · `Linux` · `Docker`
+
+---
+
+### 🤖 VerifyMeAI
+
+A computer-vision project that verifies human interaction using face detection and hand gestures.
+
+Because apparently clicking **“I'm not a robot”** wasn't complicated enough.
+
+**Stack:** `Python` · `OpenCV` · `MediaPipe` · `Flask`
+
+---
+
+### 🔎 PyTrace
+
+A Python traceroute utility built using Scapy.
+
+I wanted to understand what actually happens to packets while they travel across a network instead of blindly trusting the command line.
+
+**Stack:** `Python` · `Scapy` · `ICMP` · `Linux` · `Networking`
+
+---
+
+### 🧪 Selenium Automation Framework
+
+A reusable Selenium + PyTest framework for browser automation.
+
+Built mainly because writing the same setup and teardown code again and again became increasingly annoying.
+
+**Stack:** `Python` · `Selenium` · `PyTest`
+
+---
+
+## 🧰 My Current Toolbox
+
+**Cybersecurity**
+
+`Wazuh` · `Splunk` · `MITRE ATT&CK` · `Wireshark` · `Nmap`
+
+**Programming**
+
+`Python` · `JavaScript` · `TypeScript` · `SQL`
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=django,fastapi,flask)
-
-<sub>+ REST APIs · Authentication · API Integration</sub>
+`FastAPI` · `Django` · `Flask` · `REST APIs`
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
-
-<sub>+ Responsive Design</sub>
+`React` · `Next.js` · `Tailwind CSS`
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+`PostgreSQL` · `MySQL` · `MongoDB`
 
 **Cloud & DevOps**
 
-![Cloud & DevOps](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,githubactions)
-
-<sub>+ CI/CD</sub>
+`Azure` · `Docker` · `Linux` · `Git` · `GitHub Actions`
 
 **AI & Data**
 
-![AI & Data](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch)
-
-<sub>+ Pandas · NumPy · Power BI</sub>
-
-**Testing & Tools**
-
-![Testing & Tools](https://skillicons.dev/icons?i=selenium,postman)
-
-<sub>+ PyTest · OOP · Data Structures & Algorithms · Agile/SDLC</sub>
+`OpenCV` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Power BI`
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Currently Learning
 
-### Sky Tech — Business Website & Enquiry System
+```text
+🛡️ Cybersecurity
+   ├── SOC Operations
+   ├── SIEM
+   ├── Threat Detection
+   ├── Incident Response
+   ├── Threat Hunting
+   └── MITRE ATT&CK
 
-![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi)
+🌐 Networking
+   ├── TCP/IP
+   ├── DNS
+   ├── HTTP/HTTPS
+   ├── Routing
+   ├── Firewalls
+   └── Packet Analysis
 
-Built the first website for a residential gate-automation company that was taking every lead by phone. Every enquiry now routes straight into the team's WhatsApp through a FastAPI endpoint. Built mobile-first, and ran solo end to end — requirements, UI, API, and release.
+🐧 Systems
+   ├── Linux
+   ├── Windows
+   └── Active Directory
 
-### Instagram Reel Downloader
+💻 Development
+   ├── Python
+   ├── Backend
+   ├── Full-Stack
+   └── APIs & Deployment
+```
 
-![Stack](https://skillicons.dev/icons?i=py,fastapi,azure,docker,linux)
+---
 
-A FastAPI download service built around `yt-dlp`, taken from localhost to a live endpoint on an Azure Ubuntu VM. Wrapped in a `systemd` unit with restart-on-failure so it survives reboots on its own, after tracing an HTTPS-only CORS failure back through Azure's proxy headers.
+## 🌱 Why I Build Things
 
-### VerifyMeAI — Human Verification, No CAPTCHA
+I learn much better when I actually **do something**.
 
-![Stack](https://skillicons.dev/icons?i=py,flask,opencv,tensorflow)
+Reading about a technology is useful.
 
-Confirms a real human by detecting a face and then a hand gesture. Uses MediaPipe's landmark models over OpenCV to stay real-time on ordinary hardware, exposed as a service behind Flask REST endpoints.
+Building something with it is better.
 
-### Selenium Automation Testing Framework
+Breaking it is even better.
 
-![Stack](https://skillicons.dev/icons?i=py,selenium)
+Then figuring out why it broke?
 
-A reusable Selenium + PyTest framework with shared utilities, built after writing the same browser setup and teardown for the third time. Turns adding a regression test into writing assertions instead of rebuilding scaffolding.
+**That's where the fun begins.**
+
+That's basically how most of my projects happen.
+
+---
+
+## 🤝 If You're Also Exploring Tech...
+
+Feel free to look around.
+
+Maybe you'll find something useful.
+
+Maybe you'll find something broken.
+
+If you find something broken...
+
+**Please open an issue.**
+
+I'll probably learn something from it. 😄
 
 ---
 
@@ -113,7 +295,10 @@ A reusable Selenium + PyTest framework with shared utilities, built after writin
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -122,5 +307,11 @@ A reusable Selenium + PyTest framework with shared utilities, built after writin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake.svg" />
 </picture>
+
+---
+
+### 👋 Thanks for stopping by, fellow human.
+
+**Keep learning. Keep building. Break things safely.**
 
 </div>
