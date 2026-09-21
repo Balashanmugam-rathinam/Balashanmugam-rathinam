@@ -434,18 +434,18 @@ And if you just came here to see what some random human on the internet is build
 
 # 🐍 Watch My Contributions Get Eaten
 
+# 🐍 Watch My Contributions Get Eaten
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
   />
-
-<img
+  <img
     src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
     alt="GitHub Contribution Snake"
   />
