@@ -434,8 +434,6 @@ And if you just came here to see what some random human on the internet is build
 
 # 🐍 Watch My Contributions Get Eaten
 
-# 🐍 Watch My Contributions Get Eaten
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
