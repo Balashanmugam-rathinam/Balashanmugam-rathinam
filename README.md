@@ -1,297 +1,300 @@
 <div align="center">
 
-👋 Hi, fellow human being!
+# 👋 Hi, fellow human being!
 
-I'm Balashanmugam — but you can call me Bala.
+### I'm **Balashanmugam** — but you can call me **Bala**.
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&vCenter=true&width=720&size=20&pause=1200&color=2F81F7&lines=Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+%7C+Threat+Detection+%7C+SIEM;Backend+%26+Full-Stack+Developer+%F0%9F%92%BB;I+Build+Things+%26+Break+Them+Safely+%F0%9F%94%A5;Sometimes+I+Fix+Bugs+I+Created+Myself+%F0%9F%98%85" alt="Typing SVG" />
 
 <br>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balashanmugam-rathinam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balashanmugamrathinam@gmail.com)
 
-
-
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Balashanmugam-rathinam&color=2F81F7&style=flat-square&label=Profile+Views)
 
 </div>
 
-👋 Hello, Stranger!
+---
+
+## 👋 Hello, Stranger!
 
 If you've somehow ended up here...
 
-Welcome to my little corner of GitHub. ☕💻
+**Welcome to my little corner of GitHub.** ☕💻
 
-I'm Bala, an MSc Data Science graduate who enjoys understanding how technology works, building things with it, and occasionally breaking things just to figure out why they broke.
+I'm **Bala**, an MSc Data Science graduate who enjoys understanding how technology works, building things with it, and occasionally breaking things just to figure out why they broke.
 
-These days, I'm moving deeper into 🛡️ Cybersecurity, with my main focus on becoming a SOC Analyst.
+These days, I'm moving deeper into **🛡️ Cybersecurity**, with my main focus on becoming a **SOC Analyst**.
 
 I'm learning about:
 
-🔐 Security Monitoring
-📊 SIEM
-🔍 Threat Detection
-🚨 Incident Response
-🌐 Network Security
-📜 Log Analysis
-🎯 Threat Hunting
+🔐 Security Monitoring  
+📊 SIEM  
+🔍 Threat Detection  
+🚨 Incident Response  
+🌐 Network Security  
+📜 Log Analysis  
+🎯 Threat Hunting  
 🧩 MITRE ATT&CK
 
 But...
 
-💻 I Don't Only Like Cybersecurity
+### 💻 I Don't Only Like Cybersecurity
 
 I genuinely love building software too.
 
-🌐 Websites
-⚙️ Backend APIs
-📱 Applications
-🤖 AI projects
-🔧 Automation tools
-☁️ Cloud deployments
+🌐 Websites  
+⚙️ Backend APIs  
+📱 Applications  
+🤖 AI projects  
+🔧 Automation tools  
+☁️ Cloud deployments  
 🧪 Random experiments that start with:
 
-"Hmm... I wonder if I can build that."
+> **"Hmm... I wonder if I can build that."**
 
 Sometimes I can.
 
 Sometimes I spend three hours debugging something only to discover I forgot one character.
 
-That's part of the adventure. 😂
+**That's part of the adventure. 😂**
 
-🧭 What Am I Up To?
+---
+
+# 🧭 What Am I Up To?
 
 My current career direction is:
 
-🛡️ Cybersecurity → SOC Analyst
+### 🛡️ Cybersecurity → SOC Analyst
 
 But my curiosity goes beyond one job title.
 
 I enjoy working with:
 
-
-
-Area
-
-🛡️
-
-Cybersecurity
-
-💻
-
-Backend Development
-
-🌐
-
-Web Development
-
-📱
-
-Application Development
-
-🤖
-
-AI & Computer Vision
-
-🐧
-
-Linux & Systems
-
-☁️
-
-Cloud & DevOps
-
-🌐
-
-Networking
-
-🔧
-
-Automation
+|     | Area                        |
+| --- | --------------------------- |
+| 🛡️  | **Cybersecurity**           |
+| 💻  | **Backend Development**     |
+| 🌐  | **Web Development**         |
+| 📱  | **Application Development** |
+| 🤖  | **AI & Computer Vision**    |
+| 🐧  | **Linux & Systems**         |
+| ☁️  | **Cloud & DevOps**          |
+| 🌐  | **Networking**              |
+| 🔧  | **Automation**              |
 
 I don't really want to put myself inside one tiny box.
 
 If it's technical, interesting, and gives me a reason to say:
 
-"Let me see how this works."
+> **"Let me see how this works."**
 
 I'm probably interested.
 
-🛡️ Cybersecurity Journey
+---
 
-I'm learning cybersecurity mainly through hands-on labs and experimentation rather than just watching videos.
+# 🛡️ Cybersecurity Journey
 
-🔐 Areas I'm Exploring
+I'm learning cybersecurity mainly through **hands-on labs and experimentation** rather than just watching videos.
 
-🛡️ SOC Operations
-📊 SIEM
-🔍 Threat Detection
-🚨 Incident Response
-📜 Log Analysis
-🌐 Network Security
-🎯 Threat Hunting
-🧩 MITRE ATT&CK
+### 🔐 Areas I'm Exploring
 
-🧰 Security Tools
+🛡️ **SOC Operations**  
+📊 **SIEM**  
+🔍 **Threat Detection**  
+🚨 **Incident Response**  
+📜 **Log Analysis**  
+🌐 **Network Security**  
+🎯 **Threat Hunting**  
+🧩 **MITRE ATT&CK**
 
-Wazuh · Splunk · Wireshark · Nmap · TryHackMe
+### 🧰 Security Tools
+
+`Wazuh` · `Splunk` · `Wireshark` · `Nmap` · `TryHackMe`
 
 My favorite part?
 
 Seeing something suspicious and asking:
 
-🔎 "Okay... what actually happened here?"
+> 🔎 **"Okay... what actually happened here?"**
 
 Then following the evidence.
 
-💻 Development Life
+---
+
+# 💻 Development Life
 
 Cybersecurity may be my current career direction...
 
-but I still love writing code. ❤️
+**but I still love writing code. ❤️**
 
-⚙️ Backend
+### ⚙️ Backend
 
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,flask)
 
+`Python` · `FastAPI` · `Django` · `Flask` · `REST APIs`
 
-Python · FastAPI · Django · Flask · REST APIs
+### 🌐 Frontend
 
-🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind)
 
+`React` · `Next.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
 
+### 🗄️ Databases
 
-React · Next.js · JavaScript · TypeScript · Tailwind CSS
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
-🗄️ Databases
+`PostgreSQL` · `MySQL` · `MongoDB`
 
+### ☁️ Cloud & DevOps
 
+![Cloud](https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,githubactions)
 
-PostgreSQL · MySQL · MongoDB
+`Azure` · `AWS` · `Docker` · `Linux` · `Git` · `GitHub Actions`
 
-☁️ Cloud & DevOps
+### 🤖 AI & Data
 
+![AI](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch)
 
+`OpenCV` · `TensorFlow` · `PyTorch` · `Pandas` · `NumPy` · `Power BI`
 
-Azure · AWS · Docker · Linux · Git · GitHub Actions
+---
 
-🤖 AI & Data
+# 🚀 Things I've Built
 
-
-
-OpenCV · TensorFlow · PyTorch · Pandas · NumPy · Power BI
-
-🚀 Things I've Built
-
-🌐 Sky Tech — Business Website
+## 🌐 Sky Tech — Business Website
 
 Built a complete website for a local gate-automation business.
 
 Handled the project end-to-end:
 
-🎨 UI
-💻 Frontend
-⚙️ Backend API
-📱 Responsive Design
-📨 Enquiry System
+🎨 UI  
+💻 Frontend  
+⚙️ Backend API  
+📱 Responsive Design  
+📨 Enquiry System  
 🚀 Deployment
 
 Customer enquiries are routed directly to WhatsApp.
 
-Stack:
+**Stack:**
 
-Next.js · React · TypeScript · Tailwind · FastAPI
+`Next.js` · `React` · `TypeScript` · `Tailwind` · `FastAPI`
 
-📥 Instagram Reel Downloader
+---
 
-Built a FastAPI application around yt-dlp and took it from:
+## 📥 Instagram Reel Downloader
 
-💻 localhost
+Built a FastAPI application around `yt-dlp` and took it from:
+
+💻 **localhost**
 
 to:
 
-☁️ Azure Ubuntu VM
+☁️ **Azure Ubuntu VM**
 
 Worked with:
 
-Python · FastAPI · Azure · Linux · Docker · systemd
+`Python` · `FastAPI` · `Azure` · `Linux` · `Docker` · `systemd`
 
 This project taught me something important:
 
-🚀 "It works on my machine" is not a deployment strategy.
+> 🚀 **"It works on my machine" is not a deployment strategy.**
 
-🤖 VerifyMeAI
+---
+
+## 🤖 VerifyMeAI
 
 A computer-vision project that verifies human interaction using face detection and hand gestures.
 
 Because apparently clicking:
 
-☑️ I'm not a robot
+> ☑️ **I'm not a robot**
 
 wasn't interesting enough.
 
-Stack:
+**Stack:**
 
-Python · OpenCV · MediaPipe · Flask
+`Python` · `OpenCV` · `MediaPipe` · `Flask`
 
-🔎 PyTrace
+---
+
+## 🔎 PyTrace
 
 A Python traceroute utility built using Scapy.
 
 I wanted to understand what actually happens to packets while they travel across a network instead of simply typing a command and pretending I understood everything.
 
-Stack:
+**Stack:**
 
-Python · Scapy · ICMP · Linux · Networking
+`Python` · `Scapy` · `ICMP` · `Linux` · `Networking`
 
-🧪 Selenium Automation Framework
+---
+
+## 🧪 Selenium Automation Framework
 
 A reusable Selenium + PyTest framework for browser automation.
 
 Built mainly because writing the same browser setup code again and again became increasingly annoying.
 
-Stack:
+**Stack:**
 
-Python · Selenium · PyTest
+`Python` · `Selenium` · `PyTest`
 
-🧠 Currently Learning
+---
 
-🛡️ Cybersecurity
+# 🧠 Currently Learning
 
+### 🛡️ Cybersecurity
+
+```text
 🔐 SOC Operations
 📊 SIEM
 🔍 Threat Detection
 🚨 Incident Response
 🎯 Threat Hunting
 🧩 MITRE ATT&CK
+```
 
-🌐 Networking
+### 🌐 Networking
 
+```text
 📡 TCP/IP
 🌍 DNS
 🔗 HTTP / HTTPS
 🛣️ Routing
 🔥 Firewalls
 🔎 Packet Analysis
+```
 
-🐧 Systems
+### 🐧 Systems
 
+```text
 🐧 Linux
 🪟 Windows
 🏢 Active Directory
+```
 
-💻 Development
+### 💻 Development
 
+```text
 🐍 Python
 ⚙️ Backend Development
 🌐 Full-Stack Development
 🔌 APIs
 ☁️ Deployment
+```
 
-🧪 How I Learn
+---
 
-I learn better when I actually build something.
+# 🧪 How I Learn
 
+I learn better when I **actually build something**.
+
+```text
 📖 Read about it
        ↓
 💻 Build something
@@ -309,10 +312,13 @@ I learn better when I actually build something.
 🚀 Build something else
        ↓
        🔁
+```
 
-Repeat forever.
+**Repeat forever.**
 
-🤔 Random Things About Me
+---
+
+# 🤔 Random Things About Me
 
 🧠 I like understanding things from the fundamentals.
 
@@ -322,7 +328,7 @@ Repeat forever.
 
 💻 I can jump from cybersecurity to backend development to some completely random project because curiosity doesn't understand job descriptions.
 
-🔎 If something doesn't make sense, I want to know why.
+🔎 If something doesn't make sense, I want to know **why**.
 
 📚 I prefer learning by doing.
 
@@ -332,25 +338,29 @@ Repeat forever.
 
 Sometimes the solution really is:
 
+```text
 Have you tried restarting it?
+```
 
-🎯 Where I'm Heading
+---
+
+# 🎯 Where I'm Heading
 
 My primary career goal is:
 
-🛡️ SOC Analyst / Cybersecurity
+## 🛡️ SOC Analyst / Cybersecurity
 
 At the same time, I'm continuing to grow in:
 
-💻 Backend Development
-🌐 Full-Stack Development
-☁️ Cloud
-🐧 Linux
-🌐 Networking
-🤖 AI
+💻 Backend Development  
+🌐 Full-Stack Development  
+☁️ Cloud  
+🐧 Linux  
+🌐 Networking  
+🤖 AI  
 🔧 Automation
 
-Because I don't think I have to choose between building things and securing things.
+Because I don't think I have to choose between **building things** and **securing things**.
 
 Understanding how applications are built helps me understand how they can be attacked.
 
@@ -358,7 +368,9 @@ Understanding attacks helps me think about how applications can be built more se
 
 That's the combination I'm working toward.
 
-🤝 If You're Also Exploring Tech...
+---
+
+# 🤝 If You're Also Exploring Tech...
 
 Feel free to look around! 👀
 
@@ -368,17 +380,19 @@ Maybe you'll find something broken.
 
 If you find something broken...
 
-🐛 Open an issue.
+### 🐛 Open an issue.
 
 I'll probably learn something from it. 😄
 
 And if you just came here to see what some random human on the internet is building...
 
-Thanks for stopping by. ❤️
+**Thanks for stopping by. ❤️**
+
+---
 
 <div align="center">
 
-📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p>
   <img
@@ -388,14 +402,16 @@ Thanks for stopping by. ❤️
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam-rathinam&layout=compact&theme=tokyonight&hide_border=true"
- alt="Top Languages"
- height="180"
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam-rathinam&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 
 </p>
 
-🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <picture>
   <source
@@ -403,18 +419,20 @@ Thanks for stopping by. ❤️
     srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-dark.svg"
   />
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
-/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
+  />
 
 <img
- src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
- alt="GitHub Streak"
-/>
+    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/main/profile/streak-light.svg"
+    alt="GitHub Streak"
+  />
 </picture>
 
-🐍 Watch My Contributions Get Eaten
+---
+
+# 🐍 Watch My Contributions Get Eaten
 
 <picture>
   <source
@@ -422,19 +440,21 @@ Thanks for stopping by. ❤️
     srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake-dark.svg"
   />
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
-/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
+  />
 
 <img
- src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
- alt="GitHub Contribution Snake"
-/>
+    src="https://raw.githubusercontent.com/Balashanmugam-rathinam/Balashanmugam-rathinam/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </picture>
 
-👋 Thanks for visiting, fellow human!
+---
 
-🧠 Keep learning · 💻 Keep building · 🛡️ Break things safely · 🚀 Keep going
+### 👋 Thanks for visiting, fellow human!
+
+**🧠 Keep learning · 💻 Keep building · 🛡️ Break things safely · 🚀 Keep going**
 
 </div>
